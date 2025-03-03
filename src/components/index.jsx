@@ -1,0 +1,6 @@
+export * from './navbar'
+export * from './home'
+export * from './team'
+export * from './scores'
+export * from './events'
+export * from './footer'
